@@ -21,11 +21,4 @@ The computer randomly selects a number, and the user tries to guess it. After ea
 - Option to play again.
 - Score counter (optional extension).
 
-## 🚀 How to Run
 
-1. **Clone** the repository or **download** the `.java` file.
-2. Open in your Java IDE or terminal.
-3. Compile and run the file:
-   ```bash
-   javac NumberGuessingGame.java
-   java NumberGuessingGame
